@@ -1,0 +1,25 @@
+{
+  "name": "dummyexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dfellner92/dummyExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dfellner92/dummyExpress/issues"
+  },
+  "homepage": "https://github.com/Dfellner92/dummyExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-blacklist": "^1.0.3",
+    "express-defend": "^1.0.9"
+  }
+}
